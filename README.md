@@ -18,7 +18,7 @@ All data used are publicly available:
 - BLS
 - EPA
 - ReFED
-- [Slobotsky] (https://slobotsky.github.io/schoolportfolio.html) (county food waste estimate)
+- [Slobotsky, 2020](https://slobotsky.github.io/schoolportfolio.html) (county food waste estimate)
 
 Raw datasets are not included in this repository.
 
